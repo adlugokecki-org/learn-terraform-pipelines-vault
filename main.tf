@@ -1,6 +1,6 @@
 terraform {
   backend "remote" {
-    organization = "hashicorp-learn"
+    organization = "adlugokecki-org"
 
     workspaces {
       name = "learn-terraform-pipelines-vault"
